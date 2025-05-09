@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////
 //
 // File name: Assignment1.c
-// Description: Tp perform devision of two number
+// Description: To perform devision of two number
 // Author : Omkar Mahadev Bhargude
 // Date : 08/05/2025
 //
