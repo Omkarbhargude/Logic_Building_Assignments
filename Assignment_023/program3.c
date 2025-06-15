@@ -4,32 +4,24 @@ void Display(char ch)
 {
   if((ch >= 'A') && (ch <= 'Z'))
   {
-    while(ch != 'a')
+    while(ch <= 'Z')
     {
-      if((ch >= 'A') && (ch <= 'Z'))
-      {
          printf("%c\n",ch);
-      }
-      ch++;
+        ch++;
     }
   }
 
   if((ch >= 'a') && (ch <= 'z'))
   {
-    while(ch != 'Z')
+    while(ch != 'a')
     {
-      if((ch >= 'a') && (ch <= 'z'))
-      {
          printf("%c\n",ch);
-      }
-      ch--;
+         ch--;
     }
 
   }
-
-
-   
 }
+
 int main()
 {
     char cValue = '\0';
