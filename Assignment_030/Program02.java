@@ -22,7 +22,7 @@ class Bitwise
         }
     }
 }
-class Program2
+class Program02
 {
     public static void main(String A[])
     {
