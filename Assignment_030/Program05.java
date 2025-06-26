@@ -15,7 +15,7 @@ class Bitwise
     }
 }
 
-class Program5
+class Program05
 {
     public static void main(String A[])
     {
